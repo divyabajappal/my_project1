@@ -1,10 +1,10 @@
-#include<stdio.h>
+f1,f2i#include<stdio.h>
 void cos()
 {
 	printf("its cos");
 
 }
-void add()
+void add(float)
 {
   printf("added");
 }
@@ -12,6 +12,6 @@ void main()
 {
  printf("hi");
 
-add();
+add(f1,f2);
 cos();
 }
