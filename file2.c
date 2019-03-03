@@ -12,7 +12,7 @@ void add(float)
 void main()
 {
  printf("hi");
-
+add1(f11,f22);
 add(f1,f2);
 cos();
 }
