@@ -6,13 +6,13 @@ void cos()
 }
 void add()
 {
-	printf(" ");:wq
+	printf(" ");
   printf("added");
 }
 void main()
 {
  printf("hi");
-
+add1(f1,f2);
 add();
 cos();
 }
