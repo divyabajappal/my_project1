@@ -6,6 +6,7 @@ void cos()
 }
 void add(float)
 {
+	printf(" ");:wq
   printf("added");
 }
 void main()
